@@ -9,8 +9,3 @@ A production-ready **ASP.NET Core MVC** web application with **MySQL** for manag
 - ✅ Notifications (coupons, payment status)  
 - ✅ Admin dashboard for management  
 
-## Tech Stack
-- ASP.NET Core MVC 9  
-- Entity Framework Core (MySQL - Pomelo)  
-- Bootstrap 5  
-- XAMPP (for MySQL in local development)  
